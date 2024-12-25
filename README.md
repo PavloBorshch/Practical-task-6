@@ -34,6 +34,3 @@
     *   `PracticalTask6Application.java`
 * `pom.xml`: містить залежності проекту
 
-## Скриншоти роботи програми
-![image](https://github.com/user-attachments/assets/d9cad6f0-db0d-486c-9b01-3b6104f97306)
-
